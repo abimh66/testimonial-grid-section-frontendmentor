@@ -36,7 +36,7 @@ Objektif pada project ini:
 ### Links
 
 - Solution URL: [Solution Code](https://github.com/abimh66/testimonial-grid-section-frontendmentor)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://testimonial-section-abimh66.netlify.app/)
 
 ## Proses
 
