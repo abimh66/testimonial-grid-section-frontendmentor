@@ -15,3 +15,6 @@
 .DS_Store
 
 .prettierignore
+
+#ignore node_module
+node_modules/
